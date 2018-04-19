@@ -1,0 +1,13 @@
+{
+    "name": "rainy/rainy-bot",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rainycheng",
+            "email": "rainycheng@kkbox.com"
+        }
+    ],
+    "require": {
+        "jclg/php-slack-bot": "^0.0.6"
+    }
+}
