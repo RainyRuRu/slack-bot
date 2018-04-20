@@ -7,6 +7,11 @@
             "email": "rainycheng@kkbox.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "RainyBot\\": "src"
+        }
+    },
     "require": {
         "jclg/php-slack-bot": "^0.0.6"
     }
