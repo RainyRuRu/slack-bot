@@ -10,5 +10,5 @@ Funny and useful bot !
 
 ## Features We Have !
 
-* `@botname timestamp {timestamp | date string | now}`    
+* `@botname|direct timestamp {timestamp | date string | now}`  
   return timestamp or date 
