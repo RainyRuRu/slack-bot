@@ -1,4 +1,4 @@
-# Rainy Bot
+# Slack Bot
 
 Funny and useful bot !
 
